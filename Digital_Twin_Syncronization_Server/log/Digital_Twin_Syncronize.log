@@ -1,0 +1,139 @@
+2023-08-15 15:00:08,086 - INFO - Spatial Selection Service initialized
+2023-08-15 15:00:08,086 - INFO - MobiusConnector set to: <IoT_connector.mobius_connector.MobiusConnector object at 0x7f9861098520>
+2023-08-15 15:00:08,087 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:08,087 - INFO - Probing node bootstrap-0 broker version
+2023-08-15 15:00:08,093 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:08,199 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:08,199 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:08,200 - INFO - Broker is not v(0, 10) -- it did not recognize ApiVersionRequest_v0
+2023-08-15 15:00:08,200 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:08,207 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:08,312 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:08,312 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:08,313 - INFO - Broker is not v(0, 9) -- it did not recognize ListGroupsRequest_v0
+2023-08-15 15:00:08,313 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:08,321 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:08,426 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:08,427 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:08,427 - INFO - Broker is not v(0, 8, 2) -- it did not recognize GroupCoordinatorRequest_v0
+2023-08-15 15:00:08,427 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:08,437 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:08,544 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:08,544 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:08,545 - INFO - Broker is not v(0, 8, 1) -- it did not recognize OffsetFetchRequest_v0
+2023-08-15 15:00:08,546 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:08,554 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:08,660 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:08,661 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:08,662 - INFO - Broker is not v(0, 8, 0) -- it did not recognize MetadataRequest_v0
+2023-08-15 15:00:17,173 - INFO - Spatial Selection Service initialized
+2023-08-15 15:00:17,173 - INFO - MobiusConnector set to: <IoT_connector.mobius_connector.MobiusConnector object at 0x7fd860cb9520>
+2023-08-15 15:00:17,174 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:17,174 - INFO - Probing node bootstrap-0 broker version
+2023-08-15 15:00:17,195 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:17,301 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:17,301 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:17,302 - INFO - Broker is not v(0, 10) -- it did not recognize ApiVersionRequest_v0
+2023-08-15 15:00:17,302 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:17,315 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:17,421 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:17,421 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:17,422 - INFO - Broker is not v(0, 9) -- it did not recognize ListGroupsRequest_v0
+2023-08-15 15:00:17,422 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:17,443 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:17,550 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:17,551 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:17,552 - INFO - Broker is not v(0, 8, 2) -- it did not recognize GroupCoordinatorRequest_v0
+2023-08-15 15:00:17,552 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:17,563 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:17,671 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:17,672 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:17,672 - INFO - Broker is not v(0, 8, 1) -- it did not recognize OffsetFetchRequest_v0
+2023-08-15 15:00:17,673 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: connecting to 203.250.148.120:20521 [('203.250.148.120', 20521) IPv4]
+2023-08-15 15:00:17,689 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connecting> [IPv4 ('203.250.148.120', 20521)]>: Connection complete.
+2023-08-15 15:00:17,793 - ERROR - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: socket disconnected
+2023-08-15 15:00:17,794 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20521 <connected> [IPv4 ('203.250.148.120', 20521)]>: Closing connection. KafkaConnectionError: socket disconnected
+2023-08-15 15:00:17,794 - INFO - Broker is not v(0, 8, 0) -- it did not recognize MetadataRequest_v0
+2023-08-15 15:01:05,034 - INFO - Spatial Selection Service initialized
+2023-08-15 15:01:05,034 - INFO - MobiusConnector set to: <IoT_connector.mobius_connector.MobiusConnector object at 0x7ff538f21520>
+2023-08-15 15:01:05,035 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20517 <connecting> [IPv4 ('203.250.148.120', 20517)]>: connecting to 203.250.148.120:20517 [('203.250.148.120', 20517) IPv4]
+2023-08-15 15:01:05,036 - INFO - Probing node bootstrap-0 broker version
+2023-08-15 15:01:05,316 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20517 <connecting> [IPv4 ('203.250.148.120', 20517)]>: Connection complete.
+2023-08-15 15:01:05,443 - INFO - Broker version identified as 2.5.0
+2023-08-15 15:01:05,444 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-15 15:01:05,445 - INFO - KafkaConnector set to: <kafka.consumer.group.KafkaConsumer object at 0x7ff538f215b0>
+2023-08-15 15:01:05,445 - INFO - Mapping function set to: <function euclidean_mapping at 0x7ff5389339d0>
+2023-08-15 15:01:05,445 - INFO - Mapping algorithm set to: <function euclidean_distance at 0x7ff538086670>
+2023-08-15 15:01:05,446 - INFO - Node graph set to: <spatial_selection.nodemapper.NodeGraph object at 0x7ff538f21580>
+2023-08-15 15:01:05,446 - INFO - Node mapper set to: <spatial_selection.nodemapper.NodeMapper object at 0x7ff538f21610>
+2023-08-15 15:01:05,474 - INFO - <BrokerConnection node_id=1001 host=203.250.148.120:20517 <connecting> [IPv4 ('203.250.148.120', 20517)]>: connecting to 203.250.148.120:20517 [('203.250.148.120', 20517) IPv4]
+2023-08-15 15:01:05,580 - INFO - <BrokerConnection node_id=1001 host=203.250.148.120:20517 <connecting> [IPv4 ('203.250.148.120', 20517)]>: Connection complete.
+2023-08-15 15:01:05,581 - INFO - <BrokerConnection node_id=bootstrap-0 host=203.250.148.120:20517 <connected> [IPv4 ('203.250.148.120', 20517)]>: Closing connection. 
+2023-08-15 15:01:05,719 - INFO - Group coordinator for mygroup is BrokerMetadata(nodeId='coordinator-1001', host='203.250.148.120', port=20517, rack=None)
+2023-08-15 15:01:05,719 - INFO - Discovered coordinator coordinator-1001 for group mygroup
+2023-08-15 15:01:05,720 - INFO - <BrokerConnection node_id=coordinator-1001 host=203.250.148.120:20517 <connecting> [IPv4 ('203.250.148.120', 20517)]>: connecting to 203.250.148.120:20517 [('203.250.148.120', 20517) IPv4]
+2023-08-15 15:01:05,729 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444602, timestamp=1692079220698, timestamp_type=0, key=None, value=b"{'x': 7, 'y': -7}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=17, serialized_header_size=-1)
+2023-08-15 15:01:05,730 - INFO - RoI calculated: {'LoD2': [6], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:06,817 - INFO - <BrokerConnection node_id=coordinator-1001 host=203.250.148.120:20517 <connecting> [IPv4 ('203.250.148.120', 20517)]>: Connection complete.
+2023-08-15 15:01:08,508 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444603, timestamp=1692079267946, timestamp_type=0, key=None, value=b"{'x': 8, 'y': -9}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=17, serialized_header_size=-1)
+2023-08-15 15:01:08,509 - INFO - RoI calculated: {'LoD2': [6], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:08,959 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444604, timestamp=1692079268949, timestamp_type=0, key=None, value=b"{'x': 12, 'y': -13}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=19, serialized_header_size=-1)
+2023-08-15 15:01:08,961 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:10,918 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444605, timestamp=1692079269951, timestamp_type=0, key=None, value=b"{'x': -12, 'y': -6}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=19, serialized_header_size=-1)
+2023-08-15 15:01:10,919 - INFO - RoI calculated: {'LoD2': [3], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:11,024 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444606, timestamp=1692079270953, timestamp_type=0, key=None, value=b"{'x': 13, 'y': -6}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:11,024 - INFO - RoI calculated: {'LoD2': [6], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:12,173 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444607, timestamp=1692079271957, timestamp_type=0, key=None, value=b"{'x': 7, 'y': -13}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:12,174 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:13,401 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444608, timestamp=1692079272959, timestamp_type=0, key=None, value=b"{'x': 6, 'y': 2}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=16, serialized_header_size=-1)
+2023-08-15 15:01:13,403 - INFO - RoI calculated: {'LoD2': [2, 5], 'LoD1': [], 'LoD0': [6, 4]}
+2023-08-15 15:01:15,012 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444609, timestamp=1692079273965, timestamp_type=0, key=None, value=b"{'x': -8, 'y': 3}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=17, serialized_header_size=-1)
+2023-08-15 15:01:15,014 - INFO - RoI calculated: {'LoD2': [2, 5], 'LoD1': [], 'LoD0': [3, 1]}
+2023-08-15 15:01:15,256 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444610, timestamp=1692079274970, timestamp_type=0, key=None, value=b"{'x': 18, 'y': 12}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:15,256 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:15,994 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444611, timestamp=1692079275976, timestamp_type=0, key=None, value=b"{'x': 4, 'y': -16}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:15,995 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': [6]}
+2023-08-15 15:01:17,131 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444612, timestamp=1692079276982, timestamp_type=0, key=None, value=b"{'x': 14, 'y': -2}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:17,132 - INFO - RoI calculated: {'LoD2': [6], 'LoD1': [], 'LoD0': [2, 5]}
+2023-08-15 15:01:17,994 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444613, timestamp=1692079277987, timestamp_type=0, key=None, value=b"{'x': 0, 'y': -3}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=17, serialized_header_size=-1)
+2023-08-15 15:01:17,995 - INFO - RoI calculated: {'LoD2': [6], 'LoD1': [], 'LoD0': [2, 5]}
+2023-08-15 15:01:19,790 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444614, timestamp=1692079278989, timestamp_type=0, key=None, value=b"{'x': 8, 'y': -4}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=17, serialized_header_size=-1)
+2023-08-15 15:01:19,791 - INFO - RoI calculated: {'LoD2': [6], 'LoD1': [], 'LoD0': [2, 5]}
+2023-08-15 15:01:21,243 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444615, timestamp=1692079279990, timestamp_type=0, key=None, value=b"{'x': -16, 'y': -4}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=19, serialized_header_size=-1)
+2023-08-15 15:01:21,244 - INFO - RoI calculated: {'LoD2': [3], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:21,319 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444616, timestamp=1692079280995, timestamp_type=0, key=None, value=b"{'x': 17, 'y': 18}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:21,320 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:22,012 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444617, timestamp=1692079282001, timestamp_type=0, key=None, value=b"{'x': -18, 'y': 4}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:22,014 - INFO - RoI calculated: {'LoD2': [1], 'LoD1': [], 'LoD0': [2, 5, 3]}
+2023-08-15 15:01:23,304 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444618, timestamp=1692079283005, timestamp_type=0, key=None, value=b"{'x': 15, 'y': -9}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:23,305 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:24,034 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444619, timestamp=1692079284011, timestamp_type=0, key=None, value=b"{'x': 8, 'y': -5}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=17, serialized_header_size=-1)
+2023-08-15 15:01:24,035 - INFO - RoI calculated: {'LoD2': [6], 'LoD1': [], 'LoD0': [2, 5]}
+2023-08-15 15:01:25,293 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444620, timestamp=1692079285016, timestamp_type=0, key=None, value=b"{'x': -11, 'y': -6}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=19, serialized_header_size=-1)
+2023-08-15 15:01:25,295 - INFO - RoI calculated: {'LoD2': [3], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:26,880 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444621, timestamp=1692079286021, timestamp_type=0, key=None, value=b"{'x': -3, 'y': -19}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=19, serialized_header_size=-1)
+2023-08-15 15:01:26,882 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:27,045 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444622, timestamp=1692079287026, timestamp_type=0, key=None, value=b"{'x': 20, 'y': -7}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:27,047 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:28,574 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444623, timestamp=1692079288031, timestamp_type=0, key=None, value=b"{'x': -2, 'y': 14}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:28,576 - INFO - RoI calculated: {'LoD2': [4], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:29,063 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444624, timestamp=1692079289036, timestamp_type=0, key=None, value=b"{'x': -3, 'y': -5}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:29,064 - INFO - RoI calculated: {'LoD2': [6], 'LoD1': [], 'LoD0': [2, 5]}
+2023-08-15 15:01:30,743 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444625, timestamp=1692079290042, timestamp_type=0, key=None, value=b"{'x': 6, 'y': 13}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=17, serialized_header_size=-1)
+2023-08-15 15:01:30,744 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:31,055 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444626, timestamp=1692079291047, timestamp_type=0, key=None, value=b"{'x': -4, 'y': -18}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=19, serialized_header_size=-1)
+2023-08-15 15:01:31,056 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:32,077 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444627, timestamp=1692079292048, timestamp_type=0, key=None, value=b"{'x': -5, 'y': -3}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:32,078 - INFO - RoI calculated: {'LoD2': [2, 5], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:33,058 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444628, timestamp=1692079293050, timestamp_type=0, key=None, value=b"{'x': 13, 'y': 7}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=17, serialized_header_size=-1)
+2023-08-15 15:01:33,059 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:34,066 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444629, timestamp=1692079294053, timestamp_type=0, key=None, value=b"{'x': 7, 'y': 7}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=16, serialized_header_size=-1)
+2023-08-15 15:01:34,066 - INFO - RoI calculated: {'LoD2': [4], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:35,066 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444630, timestamp=1692079295058, timestamp_type=0, key=None, value=b"{'x': -5, 'y': -3}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:35,067 - INFO - RoI calculated: {'LoD2': [2, 5], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:36,071 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444631, timestamp=1692079296062, timestamp_type=0, key=None, value=b"{'x': -4, 'y': 16}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:36,072 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': [4]}
+2023-08-15 15:01:37,079 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444632, timestamp=1692079297067, timestamp_type=0, key=None, value=b"{'x': 17, 'y': 14}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=18, serialized_header_size=-1)
+2023-08-15 15:01:37,080 - INFO - RoI calculated: {'LoD2': [], 'LoD1': [], 'LoD0': []}
+2023-08-15 15:01:38,079 - INFO - Message received: ConsumerRecord(topic='odometry_topic', partition=0, offset=10444633, timestamp=1692079298069, timestamp_type=0, key=None, value=b"{'x': -10, 'y': -9}", headers=[], checksum=None, serialized_key_size=-1, serialized_value_size=19, serialized_header_size=-1)
+2023-08-15 15:01:38,081 - INFO - RoI calculated: {'LoD2': [3], 'LoD1': [], 'LoD0': []}
