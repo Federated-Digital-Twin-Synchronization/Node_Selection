@@ -5,7 +5,8 @@ from typing import Dict
 import logging
 
 class MobiusConnector:
-    def __init__(self, url="http://203.250.148.120:20521/Mobius/Meta-Sejong/Daeyang_AI_Center/5F"):
+    def __init__(self, url):
+        url = os.path.join("http://", url, "Mobius", "Meta-Sejong", "Daeyang_AI_Center", "5F")
         self.url = url
         self._payload = {}
         self._headers = {

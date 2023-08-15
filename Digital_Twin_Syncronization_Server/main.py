@@ -167,7 +167,7 @@ if __name__ == "__main__":
     sss = Spatial_Selection_Service()
     sss.set_IoT_hub_connector_config(mobius_server_ip, mobius_server_port)
     sss.set_message_broker_connector_config(kafka_server_ip, kafka_server_port)
-    sss.iot_hub_connector = MobiusConnector()
+    sss.iot_hub_connector = MobiusConnector("{}:{}".format(mobius_server_ip, mobius_server_port))
     sss.message_broker_connector = KafkaConnector(sss.MESSAGE_BROKER_IP, sss.MESSAGE_BROKER_PORT).consumer
     sss.mapping_function = euclidean_mapping
     sss.mapping_algorithm = euclidean_distance
